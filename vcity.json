@@ -2,7 +2,7 @@
   "name": "Vice City",
   "symbol": "GTA",
   "description": "The official Vice City token on Solana, inspired by retro chaos and blockchain precision.",
-  "image": "https://raw.githubusercontent.com/1Mantis-shrimp/vice-city/main/vice%20city.png",
-  "external_url": "https://github.com/1Mantis-shrimp/vice-city.git",
-  "x": "https://twitter.com/1mantisshrimp"
+  "image": "https://raw.githubusercontent.com/1Mantis-shrimp/vice-city/280ed3814ede8fd3225d3e955db0b2ed5f6f091e/vice%20city.png",
+  "external_url": "https://github.com/1Mantis-shrimp/vice-city",
+  "x": "@1mantisshrimp"
 }
